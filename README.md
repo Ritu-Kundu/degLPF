@@ -13,7 +13,7 @@ Currently it takes only the files mimicking FASTA format.
 
 The tool is based on the terminology and the algorithm described in the paper titled
 [**Longest Previous Factor Array for Degenerate Strings**](https://link_to_the_paper)
-by *Costas S. Iliopoulos, Ritu Kundu, Fatima Vayani, and Steven Watts*.
+by *Costas S. Iliopoulos, Ritu Kundu, Solon Pissis, Fatima Vayani, and Steven Watts*.
 
 To compile degLPF, please follow the instructions given in file `INSTALL.md`
 
