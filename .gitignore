@@ -1,0 +1,4 @@
+# ignore files generated for the experiments
+/experiments/*
+!/experiments/data
+/experiments/data/*

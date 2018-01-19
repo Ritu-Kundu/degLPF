@@ -1,0 +1,21 @@
+>p1: 
+AAC{A G}GG{A C}{A C G T}TA
+
+>p2: 
+{A G}{A G}{A C G}
+
+>p3: 
+AACG
+
+>p4: 
+{A G}{AG} AAC
+
+>p5: 
+A A C{A G}{A G}
+
+>p6: 
+AAC{A G}{A G}CC
+
+>p7: 
+{A G}{A G}AAC{A G}{A G}
+

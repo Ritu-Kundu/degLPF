@@ -1,0 +1,23 @@
+> test seq
+ACC{A C}CC{G T}{AC}AAA
+
+> 1Deg_2seeds
+ACC{A C}CC
+
+> 1Deg_start_1 seed
+{A C}ACCCC
+
+> 1Deg_end_1seed
+ACCCC{A C}
+
+> 2Deg_start_end_1seed
+{A C}ACCCC{A C}
+
+> 2Deg_start_2seeds
+{A C T}ACCCC{A C T}TAC
+
+> 2Deg_together_2seeds
+ACCCC{A C T}{A C G}TAC
+
+
+

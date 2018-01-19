@@ -1,0 +1,3 @@
+>seq 
+G{AC}T{ATC}GAGATAGA{AC}C
+
